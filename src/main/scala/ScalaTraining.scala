@@ -63,6 +63,8 @@ object ScalaTraining {
 
     val monTableau: Array[String] = Array("juvenal", "boubdalla", "bruno", "vincent", "taylor")
     //val listeTableau = monTableau.toList()
+
+
   }
 
 
